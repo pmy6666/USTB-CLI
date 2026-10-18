@@ -1,0 +1,11 @@
+.local/
+.venv/
+__pycache__/
+*.egg-info/
+build/
+dist/
+cli.exe
+docs/
+tests/
+test/
+/业务.md
